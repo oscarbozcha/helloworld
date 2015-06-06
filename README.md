@@ -1,2 +1,2 @@
 # helloworld
-this is my first github repo and this is the first repo by oscarbozcha
+this is my first github repo and this is the first repo by oscarbozcha the great!
